@@ -1,5 +1,5 @@
 # New-Haven
-It's a PC version of a board game called New Haven without UI, the rules are the same.
+
 In New Haven, set in colonial New England, players must develop the riches of the land and build a thriving settlement. Players place tiles strategically to a shared game board to cut timber, quarry stone, plant fields of wheat, and fill pastures with fat sheep. Players then use these resources to erect buildings on their own village boards, attempting to complete rows and columns for population points. Whoever can build the biggest and most prosperous town will end up with the biggest population and win the game!
 
 New Haven is a tile-laying game with a drafting component. The center board is the land between the player villages from which resources will be gathered. Players select from their two hidden tiles and play on this board to generate available value in some of the four resources. Once per game, each player can get a shipment which delivers a large value of one specific resource type.
